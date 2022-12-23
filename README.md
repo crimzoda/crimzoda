@@ -1,6 +1,6 @@
 Hello, my name Ushan Dissanayake, (my online handle is crimzoda). ☜(ﾟヮﾟ☜)
 
-Developer who is interested in C#, PHP, React and Godot Development!
+Developer who is interested in C#, PHP, Java and Godot Development!
 
 My interests are:
 - Desktop Application Development
