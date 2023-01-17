@@ -1,4 +1,4 @@
-Hello, my name Ushan Dissanayake, (my online handle is crimzoda). ☜(ﾟヮﾟ☜)
+Hello, my name is Ushan Dissanayake, (my online handle is crimzoda). ☜(ﾟヮﾟ☜)
 
 Developer who is interested in C#, PHP, Java and Godot Development!
 
